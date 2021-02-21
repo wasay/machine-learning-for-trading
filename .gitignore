@@ -1,0 +1,11 @@
+build/
+dist/
+__pycache__/
+*.egg-info/
+.vscode/
+*.pyc
+sandbox/
+/.idea/
+/venv/
+/_data/
+/02_market_and_fundamental_data/01_NASDAQ_TotalView-ITCH_Order_Book/data/10302019.NASDAQ_ITCH50.gz
